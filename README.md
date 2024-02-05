@@ -53,8 +53,9 @@ To use this application, follow these steps:
 
 ## Contributors
 
-- Your Name
-- Additional contributors
+- Said Hassan
+- Chan Hung Duong
+- Fortune Ogulewe
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
 
