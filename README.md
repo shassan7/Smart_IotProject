@@ -23,7 +23,7 @@ To use this application, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/SmartHomeClient.git
+   git clone https://github.com/shassan7/SmartHome_IoTProject.git
    cd SmartHomeClient
    ```
 
