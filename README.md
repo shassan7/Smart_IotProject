@@ -57,6 +57,3 @@ To use this application, follow these steps:
 - Chan Hung Duong
 - Fortune Ogulewe
 
-Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
-
-Happy smart home controlling! 🏡🔧
